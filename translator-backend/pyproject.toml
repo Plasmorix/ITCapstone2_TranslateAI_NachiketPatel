@@ -1,0 +1,28 @@
+[project]
+name = "translator-backend"
+version = "0.1.0"
+description = "A FastAPI translator backend"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.120.0",
+    "langchain>=1.0.2",
+    "langchain-openai>=1.0.1",
+    "pydantic>=2.12.3",
+    "pydantic-settings>=2.11.0",
+    "python-dotenv>=1.1.1",
+    "python-multipart>=0.0.20",
+    "uvicorn[standard]>=0.38.0",
+    "websockets>=12.0",
+    "openai>=1.50.0",
+    "pypdf2>=3.0.1",
+    "pyjwt>=2.8.0",
+    "cryptography>=41.0.0",
+    "httpx>=0.25.0",
+    "supabase>=2.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.9.0",
+]
