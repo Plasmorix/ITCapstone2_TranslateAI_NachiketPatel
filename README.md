@@ -90,7 +90,7 @@
 24. To access the translation portal, go to "http://localhost:3000" or "https://translateai.nachiketp.me/" in your web browser.
 25. Login or Register via email, Google Sign-in or GitHub.
 26. Confirm your email if you registered via email.
-27. Rest of this readME.md is yet to be updated.  
+27. Rest of the instructions are listed in the User Manual.
 <br>
 
 
